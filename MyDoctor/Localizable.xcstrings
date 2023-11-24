@@ -1,0 +1,160 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "\"Dr. %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru-RU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Доктор %@"
+          }
+        }
+      }
+    },
+    "Cals" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru-RU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Даты"
+          }
+        }
+      }
+    },
+    "Chat" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru-RU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чат"
+          }
+        }
+      }
+    },
+    "Covid 19" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru-RU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ковид 19"
+          }
+        }
+      }
+    },
+    "Doctor" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru-RU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Доктор"
+          }
+        }
+      }
+    },
+    "Dr. %@" : {
+      "localizations" : {
+        "ru-RU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Доктор"
+          }
+        }
+      }
+    },
+    "Hello," : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru-RU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Привет,"
+          }
+        }
+      }
+    },
+    "Hi %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru-RU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Эй %@"
+          }
+        }
+      }
+    },
+    "Home" : {
+      "comment" : "ну а как еще",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru-RU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хоме"
+          }
+        }
+      }
+    },
+    "Hospital" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru-RU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Больница"
+          }
+        }
+      }
+    },
+    "Me" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru-RU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я"
+          }
+        }
+      }
+    },
+    "Medicine" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru-RU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лекарства"
+          }
+        }
+      }
+    },
+    "Near Doctor" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru-RU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ближайший доктор"
+          }
+        }
+      }
+    },
+    "Search doctor or health issue" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru-RU" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поиск доктора или заболевания"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
